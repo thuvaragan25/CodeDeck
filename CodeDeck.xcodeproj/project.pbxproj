@@ -11,6 +11,7 @@
 		8F7FACD7288EFD7D0037FB56 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7FACD6288EFD7D0037FB56 /* ContentView.swift */; };
 		8F7FACD9288EFD7E0037FB56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F7FACD8288EFD7E0037FB56 /* Assets.xcassets */; };
 		8F7FACDC288EFD7E0037FB56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F7FACDB288EFD7E0037FB56 /* Preview Assets.xcassets */; };
+		8F7FACE4288F040D0037FB56 /* courseData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8F7FACE3288F040D0037FB56 /* courseData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8F7FACD6288EFD7D0037FB56 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8F7FACD8288EFD7E0037FB56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F7FACDB288EFD7E0037FB56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8F7FACE3288F040D0037FB56 /* courseData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = courseData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		8F7FACD3288EFD7D0037FB56 /* CodeDeck */ = {
 			isa = PBXGroup;
 			children = (
+				8F7FACE2288F03F90037FB56 /* Resources */,
 				8F7FACD4288EFD7D0037FB56 /* CodeDeckApp.swift */,
 				8F7FACD6288EFD7D0037FB56 /* ContentView.swift */,
 				8F7FACD8288EFD7E0037FB56 /* Assets.xcassets */,
@@ -65,6 +68,14 @@
 				8F7FACDB288EFD7E0037FB56 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8F7FACE2288F03F90037FB56 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8F7FACE3288F040D0037FB56 /* courseData.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +138,7 @@
 			files = (
 				8F7FACDC288EFD7E0037FB56 /* Preview Assets.xcassets in Resources */,
 				8F7FACD9288EFD7E0037FB56 /* Assets.xcassets in Resources */,
+				8F7FACE4288F040D0037FB56 /* courseData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

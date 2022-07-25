@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Python - CodeWithMosh Course",
+        "category": "Beginner - Getting Started",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "Perfect course to get started with programming. You will be introduced to the beginner friendly coding language, Python.",
+        "imageName": "Beginner1"
+    },
+    {
+        "name": "Python - CS Circles",
+        "category": "Beginner - Getting Started",
+        "url": "https://cscircles.cemc.uwaterloo.ca",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Learn algorithmss",
+        "imageName": "Beginner2"
+    },
+    {
+        "name": "JavaScript - Full 3 Hour",
+        "category": "Beginner - Getting Started",
+        "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Learn algorithmms",
+        "imageName": "Beginner3"
+    },
+    {
+        "name": "JavaScript - Codecademy",
+        "category": "Beginner - Getting Started",
+        "url": "https://www.codecademy.com/learn/introduction-to-javascript",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Learn algorithms",
+        "imageName": "Beginner4"
+    },
+    
+    
+    
+    
+    {
+        "name": "FreeCodeCamp Curriculum",
+        "category": "Web Development",
+        "url": "https://www.freecodecamp.org/learn",
+        "id": 1030,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "Use this curriculum to get good at web developent.",
+        "imageName": "WebDev1"
+    },
+    {
+        "name": "W3Schools",
+        "category": "Web Development",
+        "url": "https://www.w3schools.com/html/default.asp",
+        "id": 1031,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this curriculum to get good at web developent.",
+        "imageName": "WebDev2"
+    },
+    {
+        "name": "HTML CSS Full Course",
+        "category": "Web Development",
+        "url": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+        "id": 1032,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this curriculum to get good at web developent.",
+        "imageName": "WebDev3"
+    },
+
+    
+    
+    
+    {
+        "name": "iOS - Apple Swift Curriculum",
+        "category": "App Development",
+        "url": "https://www.apple.com/ca/education/docs/develop-in-swift-curriculum-guide.pdf",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at app development.",
+        "imageName": "AppDev1"
+    },
+    {
+        "name": "iOS - 100 Days of Swift",
+        "category": "App Development",
+        "url": "https://www.hackingwithswift.com/100",
+        "id": 1011,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "Use this to get good at app development.",
+        "imageName": "AppDev2"
+    },
+    {
+        "name": "Android - FreeCodeCamp Video",
+        "category": "App Development",
+        "url": "https://www.youtube.com/watch?v=fis26HvvDII",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at app development.",
+        "imageName": "AppDev3"
+    },
+    {
+        "name": "Android - Android's Course",
+        "category": "App Development",
+        "url": "https://developer.android.com/courses",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at app development.",
+        "imageName": "AppDev4"
+    },
+    {
+        "name": "Flutter - FreeCodeCamp Course Video",
+        "category": "App Development",
+        "url": "https://www.youtube.com/watch?v=VPvVD8t02U8",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at app development.",
+        "imageName": "AppDev5"
+    },
+    {
+        "name": "Flutter - Flutter Development Course",
+        "category": "App Development",
+        "url": "https://flutter.dev/learn",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at app development.",
+        "imageName": "AppDev6"
+    },
+    
+    
+    
+    {
+        "name": "Unity - Making Your First Game",
+        "category": "Game Development",
+        "url": "https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL",
+        "id": 1020,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "Use this to get good at game development.",
+        "imageName": "GameDev1"
+    },
+    {
+        "name": "Unity - FreeCodeCamp",
+        "category": "Game Development",
+        "url": "https://www.youtube.com/watch?v=gB1F9G0JXOo",
+        "id": 1021,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at game development.",
+        "imageName": "GameDev2"
+    },
+    {
+        "name": "PyGame - FreeCodeCamp",
+        "category": "Game Development",
+        "url": "https://www.youtube.com/watch?v=FfWpgLFMI7w",
+        "id": 1022,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at game development.",
+        "imageName": "GameDev3"
+    },
+    {
+        "name": "PyGame - Ultimate Introduction",
+        "category": "Game Development",
+        "url": "https://www.youtube.com/watch?v=AY9MnQ4x3zk",
+        "id": 1023,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Use this to get good at game development.",
+        "imageName": "GameDev4"
+    }
+]
