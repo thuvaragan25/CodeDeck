@@ -21,6 +21,12 @@ struct ContentView: View {
                     Label("List", systemImage: "list.bullet")
                 }
                 .tag(Tab.list)
+            
+            SuggestView()
+                .tabItem {
+                    Label("Suggest", systemImage: "lightbulb")
+                }
+                .tag(Tab.list)
         }
         .environmentObject(UserData())
     }

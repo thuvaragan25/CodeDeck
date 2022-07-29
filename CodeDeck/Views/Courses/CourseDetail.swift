@@ -40,22 +40,20 @@ struct CourseDetail: View {
 
                 Divider()
 
-                Text("About \(course.name)")
-                    .font(.title2)
                 Text(course.description)
                 
-                Link(destination: (URL(string: course.url)!), label: {
-                    Text("Link To Resource")
-                        .bold()
-                        .frame(width: 280, height: 50)
-                        .background(Color(.systemRed))
-                        .foregroundColor(.white)
-                        .cornerRadius(10)
-                        
-                })
-
             }
             .padding()
+            
+            Link(destination: (URL(string: course.url)!), label: {
+                Text("Visit Resource")
+                    .bold()
+                    .frame(width: 280, height: 50)
+                    .background(Color(.systemBlue))
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
+                    
+            })
         }
         .navigationTitle(course.name)
         .navigationBarTitleDisplayMode(.inline)

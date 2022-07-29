@@ -27,6 +27,8 @@
 		8F7FAD04288F24CD0037FB56 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7FAD03288F24CD0037FB56 /* PageView.swift */; };
 		8F7FAD06288F24E50037FB56 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7FAD05288F24E50037FB56 /* PageControl.swift */; };
 		8FA4D182289085CF006FE815 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA4D181289085CF006FE815 /* SplashScreenView.swift */; };
+		8FFFD9B52891E33000FC122A /* SuggestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFFD9B42891E33000FC122A /* SuggestView.swift */; };
+		8FFFD9B72891E38E00FC122A /* Rating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFFD9B62891E38E00FC122A /* Rating.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +53,8 @@
 		8F7FAD03288F24CD0037FB56 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		8F7FAD05288F24E50037FB56 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		8FA4D181289085CF006FE815 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		8FFFD9B42891E33000FC122A /* SuggestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuggestView.swift; sourceTree = "<group>"; };
+		8FFFD9B62891E38E00FC122A /* Rating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rating.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +133,7 @@
 				8F7FACF7288F20A50037FB56 /* CategoryRow.swift */,
 				8F7FACF5288F20850037FB56 /* CategoryItem.swift */,
 				8F7FACFA288F22910037FB56 /* CategoryHome.swift */,
+				8FFFD9B42891E33000FC122A /* SuggestView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -151,6 +156,7 @@
 				8F7FAD01288F24A20037FB56 /* FeatureCard.swift */,
 				8F7FAD03288F24CD0037FB56 /* PageView.swift */,
 				8F7FAD05288F24E50037FB56 /* PageControl.swift */,
+				8FFFD9B62891E38E00FC122A /* Rating.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -245,6 +251,8 @@
 				8F7FACF6288F20850037FB56 /* CategoryItem.swift in Sources */,
 				8F7FACD5288EFD7D0037FB56 /* CodeDeckApp.swift in Sources */,
 				8F7FACF2288F1FE00037FB56 /* CourseDetail.swift in Sources */,
+				8FFFD9B72891E38E00FC122A /* Rating.swift in Sources */,
+				8FFFD9B52891E33000FC122A /* SuggestView.swift in Sources */,
 				8F7FAD06288F24E50037FB56 /* PageControl.swift in Sources */,
 				8F7FAD04288F24CD0037FB56 /* PageView.swift in Sources */,
 				8F7FACFE288F23ED0037FB56 /* FavouriteButton.swift in Sources */,

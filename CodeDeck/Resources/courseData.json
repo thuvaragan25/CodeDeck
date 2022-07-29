@@ -6,7 +6,7 @@
         "id": 1001,
         "isFeatured": true,
         "isFavorite": false,
-        "description": "Perfect course to get started with programming. You will be introduced to the beginner friendly coding language, Python.",
+        "description": "This is the perfect course to get started with programming. You will be introduced to the beginner friendly coding language, Python. It goes through fundamental concepts to get you to master the basics of Python.",
         "imageName": "Beginner1"
     },
     {
@@ -16,7 +16,7 @@
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Learn algorithmss",
+        "description": "This is a website made by the University of Waterloo where it goes over fundamental concepts in Python and makes you apply the skills that you learned through coding problems. These coding problems ensure that you understand the concepts.",
         "imageName": "Beginner2"
     },
     {
@@ -26,7 +26,7 @@
         "id": 1003,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Learn algorithmms",
+        "description": "This video goes over the fundamentals of JavaScript which is a beginner friendly language. By the end of the course you should master the basics of JavaScript.",
         "imageName": "Beginner3"
     },
     {
@@ -36,7 +36,7 @@
         "id": 1004,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Learn algorithms",
+        "description": "This website covers the fundamentals of JavaScript. JavaScript is a beginner friendly language used in many popular websites. By the end of the course, you should master the basics of JavaScript.",
         "imageName": "Beginner4"
     },
     
@@ -47,30 +47,30 @@
         "name": "FreeCodeCamp Curriculum",
         "category": "Web Development",
         "url": "https://www.freecodecamp.org/learn",
-        "id": 1030,
+        "id": 1020,
         "isFeatured": true,
         "isFavorite": false,
-        "description": "Use this curriculum to get good at web developent.",
+        "description": "The curriculum that FreeCodeCamp provides can be a great way to learn web development. Learn the fundamentals of web developemnt by going through HTML and CSS, then learn more advanced topics such as responsive design and JavaScript libraries such as React. With this curriculum you are able to apply what you know in projects and with the completion of the projects, earn a certificate. ",
         "imageName": "WebDev1"
     },
     {
         "name": "W3Schools",
         "category": "Web Development",
         "url": "https://www.w3schools.com/html/default.asp",
-        "id": 1031,
+        "id": 1021,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this curriculum to get good at web developent.",
+        "description": "W3Schools is a website which provides a written tutorial for all aspects of web development from the basics of HTML and CSS to SQL for working with databases. The best part is if you are stuck on something to add to your website or if you forgot how to code something, you can quickly refer to the quick tutorial of whatever section you are looking for whether that is an animation in CSS or working with uploading files to your website.",
         "imageName": "WebDev2"
     },
     {
         "name": "HTML CSS Full Course",
         "category": "Web Development",
         "url": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
-        "id": 1032,
+        "id": 1022,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this curriculum to get good at web developent.",
+        "description": "If you like learning through videos, this course goes through the fundamental languages needed for website development which are HTML and CSS. After this video, you will be making basic websites in no time.",
         "imageName": "WebDev3"
     },
 
@@ -81,60 +81,60 @@
         "name": "iOS - Apple Swift Curriculum",
         "category": "App Development",
         "url": "https://www.apple.com/ca/education/docs/develop-in-swift-curriculum-guide.pdf",
-        "id": 1010,
+        "id": 1030,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at app development.",
+        "description": "If you want to learn app development, more specifically to design apps for Apple devices, one of the best resources to use is the resource made by Apple itself. Swift is an easy to learn language for beginners, with the help of Apple's Swift textbook, you can learn Swift and quickly get started with building your apps.",
         "imageName": "AppDev1"
     },
     {
         "name": "iOS - 100 Days of Swift",
         "category": "App Development",
         "url": "https://www.hackingwithswift.com/100",
-        "id": 1011,
+        "id": 1031,
         "isFeatured": true,
         "isFavorite": false,
-        "description": "Use this to get good at app development.",
+        "description": "If you want to learn app development for Apple devices, and you want to learn step by step with the help of a mentor guiding you throughout your journey, this is the best course to use. Through the 100 days of Swift, make sure you follow the required projects and assignments for each day. This course can be similar to a teacher teaching you a concept. By the end of the 100 days, you should have obtained a solid understanding of Swift to create apps on your own.",
         "imageName": "AppDev2"
     },
     {
         "name": "Android - FreeCodeCamp Video",
         "category": "App Development",
         "url": "https://www.youtube.com/watch?v=fis26HvvDII",
-        "id": 1012,
+        "id": 1032,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at app development.",
+        "description": "If you want to learn to make apps for Android devices and you like learning through videos, this course is for you. This course goes step by step, first from the basics of the programming language of Java, to creating your first app with Android Studio which makes it perfect for beginners. There are course challenges along the way to apply your learning.",
         "imageName": "AppDev3"
     },
     {
         "name": "Android - Android's Course",
         "category": "App Development",
         "url": "https://developer.android.com/courses",
-        "id": 1013,
+        "id": 1033,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at app development.",
+        "description": "Use this course to get good at app development with Android. This course is made by Android itself and it teaches you how to get started with app development with Kotlin and Java. When you finish the beginner course on the website, you can move on to the advanced course.",
         "imageName": "AppDev4"
     },
     {
         "name": "Flutter - FreeCodeCamp Course Video",
         "category": "App Development",
         "url": "https://www.youtube.com/watch?v=VPvVD8t02U8",
-        "id": 1014,
+        "id": 1034,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at app development.",
+        "description": "If you want to learn app development for both Android and iOS, learn Flutter which is a cross-platform app development tool made by Google. This video goes over the fundamentals of Flutter from the basics of the programming language Dart, to creating your first app.",
         "imageName": "AppDev5"
     },
     {
         "name": "Flutter - Flutter Development Course",
         "category": "App Development",
         "url": "https://flutter.dev/learn",
-        "id": 1015,
+        "id": 1035,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at app development.",
+        "description": "If you want to develop apps for multiple platforms, namely Android and iOS, learn Flutter. Flutter is a cross-platform app development tool developed by Google. Go through these resources provided by Google to gain the basic concepts of Flutter. You can then take a look at the intermediate and advanced Flutter resources on the website to gain further knowledge of this framework.",
         "imageName": "AppDev6"
     },
     
@@ -144,40 +144,40 @@
         "name": "Unity - Making Your First Game",
         "category": "Game Development",
         "url": "https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL",
-        "id": 1020,
+        "id": 1040,
         "isFeatured": true,
         "isFavorite": false,
-        "description": "Use this to get good at game development.",
+        "description": "Brackeys is a well known YouTuber known in the Unity game development community. Unity is a beginner platform which can make 3D or 2D games and is used by many game developers. Using this tutorial, get started making your first 3D game with Unity and learn the fundamental concepts as you make your first game.",
         "imageName": "GameDev1"
     },
     {
         "name": "Unity - FreeCodeCamp",
         "category": "Game Development",
         "url": "https://www.youtube.com/watch?v=gB1F9G0JXOo",
-        "id": 1021,
+        "id": 1041,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at game development.",
+        "description": "This Unity course goes over creating a 2D game. It is perfect for beginners as it goes over fundamental concepts to get started in Unity while making your first game. You can even apply the skills you learned in this course in your own games like player movement.",
         "imageName": "GameDev2"
     },
     {
         "name": "PyGame - FreeCodeCamp",
         "category": "Game Development",
         "url": "https://www.youtube.com/watch?v=FfWpgLFMI7w",
-        "id": 1022,
+        "id": 1042,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at game development.",
+        "description": "PyGame is a library created in the Python language where you can create games with your knowledge in Python. It is a perfect way for beginners to create games as Python is a beginner friendly language. Use this video to learn how to make your first game with PyGame.",
         "imageName": "GameDev3"
     },
     {
         "name": "PyGame - Ultimate Introduction",
         "category": "Game Development",
         "url": "https://www.youtube.com/watch?v=AY9MnQ4x3zk",
-        "id": 1023,
+        "id": 1043,
         "isFeatured": false,
         "isFavorite": false,
-        "description": "Use this to get good at game development.",
+        "description": "PyGame is a library created in the Python language where you can create games with your knowledge in Python. As Python is a beginner friendly language, it is a perfect way for beginners to create games. This video goes over everything from how games work to adding music to your own game. It has everything to get you started making games with PyGame.",
         "imageName": "GameDev4"
     }
 ]
